@@ -1,0 +1,14 @@
+{
+  "name": "bansheev2",
+  "version": "1.0.0",
+  "description": "BD-Discord-Bot",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Suresh",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
