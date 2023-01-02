@@ -4,7 +4,7 @@
 **Banshee v2** is an update to the previously available BattleDawn discord bot **Banshee** (now currently discontinued and offline)
 
 ## Commands
-__Banshee v2 does not support discord bot slash commands. It's an old bot revived using discordjs 14.0.__
+_Banshee v2 does not support discord bot slash commands. It's an old bot revived using discordjs 14._
 ```
 ?hi : Hello !
 ?help : Shows this menu.
