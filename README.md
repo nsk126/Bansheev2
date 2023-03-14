@@ -24,4 +24,4 @@ _Banshee v2 does not support discord bot slash commands. It's an old bot revived
 ?spyprot : If given CT of the op and # of agents(optional), will calc the max spy prot needed for safety.
 ```
 ## Support and Feedback
-You can contact me on discord - __Ruthless#8524__ for any queries and suggestions.
+You can contact me on discord - __SKrish#8524__ for any queries and suggestions.
